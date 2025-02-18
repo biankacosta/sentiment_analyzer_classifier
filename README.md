@@ -43,7 +43,6 @@ Instale as dependências com:
 pip install -r requirements.txt
 ```
 
-Aqui está a versão em inglês do README:
 
 ---
 
